@@ -134,4 +134,4 @@ bot.loginWithToken(config.tokenID, (err, token) => {
 });
 
 // THIS MUST BE THIS WAY
-client.login(proces.env.B0T_T0KEN);
+client.login(proces.env.BOT_TOKEN);
